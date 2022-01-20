@@ -1,0 +1,9 @@
+div {
+    background-color: rgb(1, 1, 17);
+    text-align: center;
+    color: darkgray;
+}
+.main-section {
+    boarder: 3xp dashed hotpink
+    text-align: center
+}
